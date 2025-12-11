@@ -1,7 +1,7 @@
 ---
 title:          "Edge-Optimized Cognition and Context-Aware Speech Enhancement for Multimodal Hearing Aids"
 date:           2025-01-01 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Proc. AVSEC 2025"
 pub_date:       "2025"
 abstract: >-
