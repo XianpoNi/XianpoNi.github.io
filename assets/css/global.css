@@ -1,7 +1,15 @@
 @charset "utf-8";
+:root {
+    --font-size-page-title: 1.375rem;
+    --font-size-section-title: 1.0625rem;
+    --font-size-body: 1rem;
+    --font-size-meta: 0.875rem;
+    --font-size-caption: 0.8125rem;
+}
+
 body {
     font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    font-size: 1rem;
+    font-size: var(--font-size-body);
     font-weight: 400;
     line-height: 1.55;
     padding-top: 5.0rem;
@@ -47,16 +55,46 @@ h1, h2, h3, h4, h5, h6,
     line-height: 1.65;
 }
 
+.page-section-title,
+.profile-name {
+    font-size: var(--font-size-page-title);
+    font-weight: 700;
+    line-height: 1.3;
+}
+
+.card-section-title {
+    font-size: var(--font-size-section-title);
+    font-weight: 700;
+    line-height: 1.35;
+}
+
+.profile-meta,
+.item-meta,
+.publication-meta {
+    font-size: var(--font-size-meta);
+    line-height: 1.5;
+}
+
+.item-title {
+    font-size: var(--font-size-body);
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.social-links {
+    font-size: 1.375rem;
+    line-height: 1.3;
+}
+
 .publication-title {
-    font-size: 1.05rem;
+    font-size: var(--font-size-section-title);
     font-weight: 700;
     line-height: 1.4;
     letter-spacing: -0.005em;
 }
 
-.publication-meta {
-    font-size: 0.875rem;
-    line-height: 1.5;
+.footer {
+    font-size: var(--font-size-caption);
 }
 
 .navbar {
