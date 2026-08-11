@@ -2,8 +2,8 @@
 title:          "FPGA-Based LSTM Acceleration for Real-Time Speech Enhancement in Next Generation Hearing Aids"
 date:           2025-03-01 00:01:00 +0800
 selected:       true
-pub:            "Conference/Journal TBD"
-pub_date:       "2025"
+pub:            "Proceedings of AVSEC 2025, Interspeech Workshop, pp. 45–47"
+pub_date:       ""
 abstract: >-
   An FPGA-based implementation of LSTM neural networks for real-time speech enhancement in hearing aids, achieving low latency and energy efficiency for next-generation devices.
 cover:          /assets/images/covers/cover_fpga_lstm.jpg

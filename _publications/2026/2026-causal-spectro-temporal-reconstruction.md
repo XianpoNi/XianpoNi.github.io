@@ -9,4 +9,6 @@ authors:
 - Dongkun Xu
 - Usman Anwar
 - Tughrul Arslan
+links:
+  Paper: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9e55syYAAAAJ&citation_for_view=9e55syYAAAAJ:eQOLeE2rZwMC
 ---

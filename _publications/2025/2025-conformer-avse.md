@@ -2,8 +2,8 @@
 title:          "ConformerAVSE: A Transformer-based Audio-Visual Speech Enhancement Model for Hearing Aids"
 date:           2025-02-01 00:01:00 +0800
 selected:       false
-pub:            "Conference/Journal TBD"
-pub_date:       "2025"
+pub:            "Proceedings of AVSEC 2025, Interspeech Workshop, pp. 39–41"
+pub_date:       ""
 abstract: >-
   A transformer-based audio-visual speech enhancement model using Conformer architecture specifically designed for hearing aid applications.
 cover:          /assets/images/covers/cover_conformer.jpg
